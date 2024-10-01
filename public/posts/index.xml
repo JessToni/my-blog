@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on On Your Free Time</title>
+    <link>http://localhost:38123/posts/</link>
+    <description>Recent content in Posts on On Your Free Time</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 17:16:15 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:38123/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post!</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Play This Game If You Are A Busy Gamer</title>
+      <link>http://localhost:38123/posts/hades-copy/</link>
       <pubDate>Thu, 26 Sep 2024 17:16:15 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;br&gt;&#xA;Hello! My name&amp;rsquo;s &lt;em&gt;Jess&lt;/em&gt; and I just built this simple site using &lt;strong&gt;Hugo&lt;/strong&gt;. Spent around 2 or 3 hours just to set this thing up but we&amp;rsquo;re finally here.&lt;/p&gt;&#xA;&lt;p&gt;Mental note: Do not follow a tutorial that is 3 years old. You&amp;rsquo;ll just blow your head up following outdated instructions.&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;Visit the [Hugo] (&lt;a href=&#34;https://gohugo.io&#34;&gt;https://gohugo.io&lt;/a&gt;) website!&lt;/p&gt;</description>
+      <guid>http://localhost:38123/posts/hades-copy/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;As we Gen Z’ers step into adulthood, we often find ourselves in a strange purgatory: “I can afford this, but I don’t have time to enjoy it.” This couldn’t be more true when it comes to video games. We grew up dreaming of the day we could buy any game we wanted, fire it up, and play it from start to finish. Fast forward to now. You’re 24 years old, sitting in front of a monster rig that can run anything, and you’ve got the game you’ve been eyeing for months. But what happens? It’s 11 pm, you’ve barely scratched the intro, and now it’s time to go to bed. It’s the ultimate gamer irony—you’ve got the game, but not the time.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
